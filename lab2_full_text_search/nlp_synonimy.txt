@@ -1,0 +1,4 @@
+kpk => kodeks postępowania karnego
+kpc => kodeks postępowania cywilnego
+kk => kodeks karny
+kc => kodeks cywilny
